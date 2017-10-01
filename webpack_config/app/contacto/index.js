@@ -63,8 +63,20 @@ textarea{
 	}
 }
 
-
-
+</style>
+</head>
+<body>
+	<form action="">
+	<h2>CONTACTENOS</h2>
+	<input type="text" name="Nombre" placeholder="Nombre">
+	<input type="text" name="Correo" placeholder="Correo">
+	<input type="text" name="Telefono" placeholder="Telefono">
+	<textarea name= "mensaje" placeholder="Escriba aqui Su Comentario nosotros lo llamaremos"></textarea>
+	<input type="button" value="Enviar" id="boton">
+	</form>
+</body>
+</html>
+	
 
 <h1>contacto</h1>`
 
