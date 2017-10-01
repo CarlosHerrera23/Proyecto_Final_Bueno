@@ -76,7 +76,11 @@ textarea{
 	</form>
 </body>
 </html>
-	
+   <pre>      
+
+	                                   Gracias	
+
+	</pre>
 
 <h1>contacto</h1>`
 
