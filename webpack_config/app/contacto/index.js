@@ -23,6 +23,29 @@ form{
 }
 
 
+h2{
+	color: #fff;
+	text-align: center;
+	margin: 0;
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+
+input,textarea{
+	width: 100%;
+	margin-bottom: 20px;
+	padding: 7px;
+	box-sizing: border-box;
+	font-size: 17px;
+	border: none;
+}
+
+textarea{
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 100%;
+}
+
 <h1>contacto</h1>`
 
 export default contacto
