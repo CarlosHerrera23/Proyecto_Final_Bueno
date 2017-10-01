@@ -46,6 +46,26 @@ textarea{
 	max-width: 100%;
 }
 
+
+#boton{
+	background: #31384A;
+	color: #fff;
+	padding: 20px;
+}
+
+#boton:hover{
+	cursor: pointer;
+}
+
+@media (max-width: 480px){
+	form{
+		width: 100%;
+	}
+}
+
+
+
+
 <h1>contacto</h1>`
 
 export default contacto
