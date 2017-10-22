@@ -1,5 +1,4 @@
 
-
 const menu = `
 <html>
 <head>
@@ -27,7 +26,7 @@ const menu = `
 
 	<main>
 		<section id="banner">
-			<img src="img/tienda.jpg">
+			<img src="http://imaginadigital.mx/wp-content/uploads/2015/06/tienda-en-linea.jpg">
 			<div class="contenedor">
 				<h2>TechMarts La Tienda del Futuro</h2>
 				<p>Quieres Conocer mas Hacerca de La tienda</p>
@@ -45,16 +44,18 @@ const menu = `
 			<h3>Lo ultimo de Nuestra Tienda</h3>
 			<div class="contenedor">
 				<article>
-					<img src="img/iphone8.jpg">
-					<h4>Novedades del Nuevo Iphone</h4>
+					
+					<img src="https://cdn.dribbble.com/users/300766/screenshots/1290406/imac.gif">
+					<h4>Micro Computadoras</h4>
 				</article>
 				<article>
-					<img src="img/Intel.jpg">
-					<h4>Nuevo Procesador Core I9 Extreme Edition</h4>
+					
+					<img src="https://media.giphy.com/media/l1KVaBBR8VGg57Hdm/giphy.gif" >
+					<h4>Equipos Moviles</h4>
 				</article>
 				<article>
-					<img src="img/and.png" >
-					<h4>Novedades De Android</h4>
+					<img src="https://i.imgur.com/l0Jdr4I.gif">
+					<h4>Juegos</h4>
 				</article>
 
 			</div>
@@ -64,19 +65,19 @@ const menu = `
 			<h3>Para Nosotros es importante brindarle Productos de calidad y Con garantia A nuestro cliente</h3>
 			<div class="contenedor">
 				<div class="info-pet">
-					<img src="img/certificacion.png">
+					<img src="http://ceoconsultores.mx/assets/images/certificacion-1400x881.png">
 					<h4>Certififcados</h4>
 				</div>
 				<div class="info-pet">
-					<img src="img/calidad.png">
+					<img src="http://answare-tech.com/wp-content/uploads/2017/04/logo-iso-596x540.png">
 					<h4>Calidad</h4>
 				</div>
 				<div class="info-pet">
-					<img src="img/garantia.png">
+					<img src="http://conceptodefinicion.de/wp-content/uploads/2011/09/garantia.png">
 					<h4>Garantia</h4>
 				</div>
 				<div class="info-pet">
-					<img src="img/rembolso.jpg">
+					<img src="http://www.myway.com.br/wp-content/uploads/2015/07/reembolso-proporcional-300x297.png">
 					<h4>Reembolsoo</h4>
 				</div>
 			</div>
