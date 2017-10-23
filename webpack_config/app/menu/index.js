@@ -20,6 +20,12 @@ const menu = `
 				<a href="/acercade">acerda de</a>
 				<a href="/contacto">Contactos</a>
 				<a href="/categoria">Categoria</a>
+					<ul>
+						<li><a href="/EquiposMoviles">Equipos Moviles</a></li>
+						<li><a href="/Games">Games</a></li>
+						<li><a href="/MicroComputadoras">MicroComputadoras</a></li>
+						<li><a href="/Software">Softwares</a>
+					</ul>	
 			</nav>
 		</div>
 	</header>
