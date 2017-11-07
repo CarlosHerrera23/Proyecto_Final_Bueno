@@ -21,6 +21,7 @@
     "webpack-dev-server": "^2.8.2"
   },
   "dependencies": {
+    "firebase": "^4.6.1",
     "page": "^1.7.1"
   }
 }
