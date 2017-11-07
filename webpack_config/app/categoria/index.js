@@ -17,10 +17,10 @@ const categoria = () => {
 			var equipo = arrayDatos[key]
 			//'<h1>${equipo.Modelo}</h1>'
 
-      console.log(keys)
+     
        
 }
-
+ console.log(keys)
 		/*const main = document.querySelector('main')
 		main.innerHTML = index//layout(index)*/
 		
