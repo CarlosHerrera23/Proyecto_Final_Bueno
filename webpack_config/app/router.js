@@ -5,7 +5,7 @@ import contacto from './contacto'
 import acercade from './acercade'
 import categoria from './categoria'
 import firebase from 'firebase'
-import config from './config' 
+import config from './config'
 
 const main = document.querySelector('main')
 
@@ -22,7 +22,6 @@ page('/acercade', () => {
 })
 
 page('/categoria', categoria)
-
 /*page('/categoria', () => {
 	main.innerHTML = layout(categoria)
 })*/
